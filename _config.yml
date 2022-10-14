@@ -17,7 +17,7 @@ slogan: 'Cobián Salonia MBI'
 description: 'Wir sind ein Management Buy In Team auf der Suche nach einem Unternehmen.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Cobián Salonia MBI.</p>'
+credits: '<p>Cobián Salonia MBI</p>'
 
 # Main author of the website
 # See > authors.yml
