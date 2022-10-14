@@ -2,6 +2,18 @@
   url: "/"
   side: left
 
+- title: Über uns
+  url: "/team/"
+  side: left
+ 
+- title: Was wir suchen
+  url: "/ziel/"
+  side: left
+  
+- title: Kontakt
+  url: "/kontakt/"
+  side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
