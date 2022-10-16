@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : "Über uns"
 subheadline         : "Das MBI Team"
-teaser              : "Wir sind ein zwei Personen Team auf der Suche nach einem MBI Kandidat."
+teaser              : "Wir sind auf der Suche nach einem MBI Kandidat."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/team/"
@@ -13,3 +13,5 @@ in Weltkonzernen, wie SAP, Arvato Bertelsmann, Santander Bank, Infosys und Accen
 Karrieren sieht das Team als nächster logischer Schritt der Einstieg in der Selbständigkeit durch den Unternehmenskauf.
 
 
+image:
+   title: gcobian.jpeg
