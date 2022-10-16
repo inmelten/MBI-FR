@@ -14,7 +14,7 @@ Karrieren sieht das Team als nächster logischer Schritt der Einstieg in der Sel
 
 <div class="show-for-small">
 <div class="row">
-   <div class="small-2 columns"><img src="/assets/img/foto_gcobian.jpeg"/></div>
-   <div class="small-10 columns">10 columns</div>
+   <div class="small-2 columns"><img src="/assets/img/foto_gcobian.jpeg"; width=300px/></div>
+   <div class="small-6 columns">10 columns</div>
    
 
