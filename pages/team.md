@@ -12,9 +12,15 @@ Wir sind Gerardo Salonia und Guillermo Cobián De Vinatea, zwei Professionals mi
 in Weltkonzernen, wie SAP, Arvato Bertelsmann, Santander Bank, Infosys und Accenture. Nach zwei sehr erfolgreichen 
 Karrieren sieht das Team als nächster logischer Schritt der Einstieg in der Selbständigkeit durch den Unternehmenskauf.
 
-<div class="show-for-small">
+
 <div class="row">
    <div class="small-2 columns"><img src="/assets/img/foto_gcobian.jpeg"; width=300px/></div>
-   <div class="small-6 columns">10 columns</div>
+   <div class="small-6 columns">Beispiel</div>
+</div>
+
    
+   <div class="row">
+   <div class="small-2 columns">bild</div>
+   <div class="small-6 columns">Beispiel</div>
+</div>
 
