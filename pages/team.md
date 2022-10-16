@@ -18,7 +18,7 @@ Karrieren sieht das Team als nächster logischer Schritt der Einstieg in der Sel
    <div class="small-10 columns">10 columns</div>
    
 
-<img src="inmelten.github.io/assets/img/gcobian.jpeg">
+#<img src="inmelten.github.io/assets/img/gcobian.jpeg">
 ![Guillermo Cobián De Vinatea](/assets/img/gcobian.jpeg)
 image:
    title: gcobian.jpeg
