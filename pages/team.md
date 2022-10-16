@@ -18,6 +18,6 @@ Karrieren sieht das Team als nächster logischer Schritt der Einstieg in der Sel
    <div class="small-10 columns">10 columns</div>
    
    
-<img src="{{ site.urlimg }}{{ gcobian.jpeg }}">
+![Guillermo Cobián De Vinatea](/assets/img/gcobian.jpeg)
 image:
    title: gcobian.jpeg
